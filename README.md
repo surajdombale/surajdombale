@@ -30,7 +30,7 @@ I enjoy working on **SaaS products, payment integrations, and developer-facing f
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,maven,react,js,html,css,mysql,docker,git,github,idea,vscode&perline=13" alt="Java, Spring Boot, Maven, React, JavaScript, HTML, CSS, MySQL, Docker, Git, GitHub, IntelliJ IDEA, VS Code"/>
+  <img src="https://skillicons.dev/icons?i=java,spring,maven,react,nextjs,js,html,css,mysql,docker,git,github,idea,vscode&perline=14" alt="Java, Spring Boot, Maven, React, Next.js, JavaScript, HTML, CSS, MySQL, Docker, Git, GitHub, IntelliJ IDEA, VS Code"/>
 </p>
 
 **Also working with**
@@ -38,6 +38,7 @@ I enjoy working on **SaaS products, payment integrations, and developer-facing f
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_APIs-005571?style=flat-square)
 ![JavaFX](https://img.shields.io/badge/JavaFX-007396?style=flat-square&logo=openjdk&logoColor=white)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=flat-square&logo=digitalocean&logoColor=white)
 ![Stripe](https://img.shields.io/badge/Stripe_Apps-635BFF?style=flat-square&logo=stripe&logoColor=white)
 ![OPC UA](https://img.shields.io/badge/OPC_UA_/_PLC-2E7D32?style=flat-square)
 ![Claude](https://img.shields.io/badge/Claude_(AI--assisted_dev)-D97757?style=flat-square&logo=anthropic&logoColor=white)
@@ -49,7 +50,7 @@ I enjoy working on **SaaS products, payment integrations, and developer-facing f
 | Project | What it does | Tech | Links |
 |---|---|---|---|
 | 🚀 **Referral Rocket** | Referral & affiliate platform for SaaS and B2C companies, their affiliates and influencers. Built automated tax calculation for payouts, API rate limiting, embeddable widgets that partners host on their own sites, and the Stripe Marketplace app. *(Professional work, 1.5 years · code is private)* | Java · Spring Boot · React · MySQL · Docker · Stripe | [![Website](https://img.shields.io/badge/Website-4CAF50?style=flat-square)](https://referralrocket.io/) [![Stripe App](https://img.shields.io/badge/Stripe_App-635BFF?style=flat-square&logo=stripe&logoColor=white)](https://marketplace.stripe.com/apps/referral-rocket-affiliate-software) |
-| 📒 **Stripe Bookkeeper** | Stripe reconciliation and bookkeeping. Listens to Stripe webhook events, maintains books for connected Stripe accounts, and exports data in formats accounting software can import. Stripe App coming soon. *(Professional work · code is private)* | Java · Stripe API · MySQL | [![Website](https://img.shields.io/badge/Website-4CAF50?style=flat-square)](https://www.stripebookkeeper.com/) |
+| 📒 **Stripe Bookkeeper** | Stripe reconciliation and bookkeeping. Listens to Stripe webhook events, maintains books for connected Stripe accounts, and exports data in formats accounting software can import. **Built solo from 0 to 100:** architecture, Next.js website, React app, Spring Boot backend, database, Stripe App, and deployment with Docker on DigitalOcean droplets. *(Professional work · code is private)* | Next.js · React · Java · Spring Boot · MySQL · Docker · DigitalOcean · Stripe | [![Website](https://img.shields.io/badge/Website-4CAF50?style=flat-square)](https://www.stripebookkeeper.com/) ![Stripe App](https://img.shields.io/badge/Stripe_App-Coming_soon-635BFF?style=flat-square&logo=stripe&logoColor=white) |
 | 🏭 **SmartBatch360** | Industrial batching plant management system, built for my college's Electrical department lab. Students use it to run and monitor a PLC-controlled concrete batching setup. Includes a live dashboard, production runs, recipe management, and client / site / vehicle / driver management. Communicates with the PLC through an OPC UA server. | Java · Spring Boot · JavaFX · OPC UA · Maven | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/surajdombale/smart_batch_360) |
 | 🌐 **Portfolio Website** | My personal profile site with projects and experience | GitHub Pages | [![Live](https://img.shields.io/badge/Live-4CAF50?style=flat-square)](https://surajdombale.github.io/profile/) |
 | 🧩 **LeetCode** | Daily DSA practice in Java | Java | [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/surajdombale/) |
