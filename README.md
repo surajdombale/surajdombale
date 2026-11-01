@@ -1,10 +1,10 @@
-# 👋 Hi, I'm Suraj Vishnurumbale
+# 👋 Hi, I'm Suraj Vishnu Dombale
 
 **`Full Stack Developer · Java · Spring Boot · React · MySQL · 5 Years`**
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit-4A90E2?style=for-the-badge)](YOUR_PORTFOLIO_LINK)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_LINK)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit-4A90E2?style=for-the-badge)](https://surajdombale.github.io/profile/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suraj-dombale/)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:surajdombale@gmail.com)
 
 ---
 
