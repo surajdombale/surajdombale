@@ -57,16 +57,11 @@ I enjoy working on **SaaS products, payment integrations, and developer-facing f
 
 ---
 
-## 📊 GitHub Stats
+## 🔭 Currently Working On
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=surajdombale&show_icons=true&hide_border=true&theme=tokyonight" alt="Suraj's GitHub stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=surajdombale&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=surajdombale&hide_border=true&theme=tokyonight" alt="GitHub contribution streak"/>
-</p>
+- 🏭 Adding **PLC integration via OPC UA** to [SmartBatch360](https://github.com/surajdombale/smartbatch360-showcase)
+- 📒 Getting the **Stripe Bookkeeper Stripe App** ready for the Stripe Marketplace
+- 🧩 Practicing **DSA in Java** daily on [LeetCode](https://leetcode.com/u/surajdombale/)
 
 ---
 
