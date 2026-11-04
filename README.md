@@ -30,18 +30,33 @@ I enjoy working on **SaaS products, payment integrations, and developer-facing f
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,maven,react,nextjs,js,html,css,mysql,docker,git,github,idea,vscode&perline=14" alt="Java, Spring Boot, Maven, React, Next.js, JavaScript, HTML, CSS, MySQL, Docker, Git, GitHub, IntelliJ IDEA, VS Code"/>
+  <a href="https://www.java.com" title="Java"><img src="https://skillicons.dev/icons?i=java" alt="Java" title="Java" width="48"/></a>
+  <a href="https://spring.io/projects/spring-boot" title="Spring Boot"><img src="https://skillicons.dev/icons?i=spring" alt="Spring Boot" title="Spring Boot" width="48"/></a>
+  <a href="https://maven.apache.org" title="Maven"><img src="https://skillicons.dev/icons?i=maven" alt="Maven" title="Maven" width="48"/></a>
+  <a href="https://react.dev" title="React"><img src="https://skillicons.dev/icons?i=react" alt="React" title="React" width="48"/></a>
+  <a href="https://nextjs.org" title="Next.js"><img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" title="Next.js" width="48"/></a>
+  <a href="https://developer.mozilla.org/docs/Web/JavaScript" title="JavaScript"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" title="JavaScript" width="48"/></a>
+  <a href="https://developer.mozilla.org/docs/Web/HTML" title="HTML"><img src="https://skillicons.dev/icons?i=html" alt="HTML" title="HTML" width="48"/></a>
+  <a href="https://developer.mozilla.org/docs/Web/CSS" title="CSS"><img src="https://skillicons.dev/icons?i=css" alt="CSS" title="CSS" width="48"/></a>
+  <a href="https://www.mysql.com" title="MySQL"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" title="MySQL" width="48"/></a>
+  <a href="https://www.docker.com" title="Docker"><img src="https://skillicons.dev/icons?i=docker" alt="Docker" title="Docker" width="48"/></a>
+  <a href="https://git-scm.com" title="Git"><img src="https://skillicons.dev/icons?i=git" alt="Git" title="Git" width="48"/></a>
+  <a href="https://github.com" title="GitHub"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" title="GitHub" width="48"/></a>
+  <a href="https://www.jetbrains.com/idea/" title="IntelliJ IDEA"><img src="https://skillicons.dev/icons?i=idea" alt="IntelliJ IDEA" title="IntelliJ IDEA" width="48"/></a>
+  <a href="https://code.visualstudio.com" title="VS Code"><img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" title="VS Code" width="48"/></a>
 </p>
 
 **Also working with**
 
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_APIs-005571?style=flat-square)
-![JavaFX](https://img.shields.io/badge/JavaFX-007396?style=flat-square&logo=openjdk&logoColor=white)
-![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=flat-square&logo=digitalocean&logoColor=white)
-![Stripe](https://img.shields.io/badge/Stripe_Apps-635BFF?style=flat-square&logo=stripe&logoColor=white)
-![PLC](https://img.shields.io/badge/PLC_/_OPC_UA-in_progress-2E7D32?style=flat-square)
-![Claude](https://img.shields.io/badge/Claude_(AI--assisted_dev)-D97757?style=flat-square&logo=anthropic&logoColor=white)
+<p>
+  <a href="https://hibernate.org" title="Hibernate"><img src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white" alt="Hibernate" title="Hibernate"/></a>
+  <a href="https://developer.mozilla.org/docs/Glossary/REST" title="REST APIs"><img src="https://img.shields.io/badge/REST_APIs-005571?style=flat-square" alt="REST APIs" title="REST APIs"/></a>
+  <a href="https://openjfx.io" title="JavaFX"><img src="https://img.shields.io/badge/JavaFX-007396?style=flat-square&logo=openjdk&logoColor=white" alt="JavaFX" title="JavaFX"/></a>
+  <a href="https://www.digitalocean.com" title="DigitalOcean"><img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=flat-square&logo=digitalocean&logoColor=white" alt="DigitalOcean" title="DigitalOcean"/></a>
+  <a href="https://stripe.com/apps" title="Stripe Apps"><img src="https://img.shields.io/badge/Stripe_Apps-635BFF?style=flat-square&logo=stripe&logoColor=white" alt="Stripe Apps" title="Stripe Apps"/></a>
+  <a href="https://opcfoundation.org/about/opc-technologies/opc-ua/" title="PLC / OPC UA (in progress)"><img src="https://img.shields.io/badge/PLC_/_OPC_UA-in_progress-2E7D32?style=flat-square" alt="PLC / OPC UA (in progress)" title="PLC / OPC UA (in progress)"/></a>
+  <a href="https://claude.ai" title="Claude (AI-assisted development)"><img src="https://img.shields.io/badge/Claude_(AI--assisted_dev)-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude (AI-assisted development)" title="Claude (AI-assisted development)"/></a>
+</p>
 
 ---
 
